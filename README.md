@@ -1,4 +1,5 @@
 # Curso Git GitHub
 
-Versionamento de repositorio pelo curso Git GitHub
-Repositório criado dunate o curso do Curso em Vídeo
+Versionamento de repositório pelo curso Git GitHub
+Repositório voltado para o estudo de versionamento com o Curso em Vídeo
+
